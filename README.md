@@ -32,7 +32,9 @@ Navigate brings everything students need into one place:
 
 ---
 
-##  How we built it  
+##  How I built it  
+
+I built Navigate using `Figma AI` assistance to generate the starting code and then customized it.  
 
 ### Languages & Frameworks  
 - **TypeScript (React + JSX/TSX)** – Core frontend logic & components  
@@ -57,21 +59,21 @@ Navigate brings everything students need into one place:
 
 ---
 
-## ⚡ Challenges we ran into  
+##  Challenges I ran into  
 - Organizing a huge amount of information without overwhelming users.  
 - Translating complex academic requirements into clear, student-friendly language.  
 - Making tools like the GPA calculator accurate and intuitive.  
 
 ---
 
-##  Accomplishments we’re proud of  
+##  Accomplishments I'm proud of  
 - Building an app **from a student’s perspective** while still in high school.  
 - Bringing together course planning, GPA tools, graduation tracking, and college prep in one platform.  
 - Designing with **immigrant students** in mind, so the app truly addresses real needs.  
 
 ---
 
-##  What we learned  
+##  What I learnt  
 - Empathy in design is key — tools must feel approachable, not intimidating.  
 - Breaking down education jargon into plain words makes a huge difference.  
 - The U.S. education system is complex, but with the right tools, students can navigate it with confidence.  
