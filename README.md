@@ -8,6 +8,12 @@ It’s designed especially for **immigrant students** new to the U.S. and **midd
 
 ---
 
+## 📷 Preview  
+
+![Navigate Screenshot](assets/screenshot.png)
+
+---
+
 ##  Inspiration  
 When I moved to the U.S. in 10th grade, I realized how overwhelming the high school system can be — credits, STAAR tests, course types, endorsements, GPA, and college prep were all new to me. Many students, especially newcomers, face these same challenges.  
 I built **Navigate** to break these barriers, simplify the system, and give students confidence in planning their high school journey.  
