@@ -1,7 +1,7 @@
 
 #  Navigate  
 
-🔗 **Try it here:** [Navigate on Figma](https://www.figma.com/make/K0pbou3TdK2Ie8DOgRX3a2/Navigate?node-id=0-1&t=TVzMHY2jq5utAQqB-1)  
+🔗 **Try it here:** [Navigate on Figma](https://toad-nit-40004345.figma.site/)  
 
 **Navigate** is a web-based application built to guide students through the U.S. high school system.  
 It’s designed especially for **immigrant students** new to the U.S. and **middle schoolers transitioning to high school**, giving them one place to understand courses, GPA, graduation requirements, and college prep resources.  
